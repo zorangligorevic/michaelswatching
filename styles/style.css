@@ -1,0 +1,90 @@
+
+body{
+	background-image: url(file:///D:/Michael%20Website/Glitch.png);
+	
+}
+
+nav ul{
+	margin: 0;
+	padding: 0;
+	
+	
+}
+nav ul li{
+	list-style: none;
+	float: left;
+	font-size: 125%;
+	
+}
+nav ul li a{
+	display: block;
+	font-weight: bold;
+	padding: .625em 3.5em;
+	text-decoration: none;
+	color: white;
+	
+}
+
+
+
+header{
+	display: flex;
+  justify-content: center;
+}
+#wrap{
+	display: flex;
+  justify-content: center;
+  padding-top : 10%
+}
+.right{
+	padding-top: 12%;
+	padding-left: 5%
+	
+	
+}
+
+h1{
+	color: white;
+	padding-left: 5%;
+}
+
+h2{
+	color: white;
+	padding-left: 5%;
+}
+
+.snapchat{
+	float: right;
+	padding-top: 4%
+}
+
+.snapcode{
+	
+	
+  padding-top : 10%
+  
+  
+}
+
+.headspin{
+	float: left;
+	padding-top: 4%
+}
+
+.co{
+	float: left;
+	padding-top: 2%
+}
+
+.anim{
+	display: flex;
+	justify-content: center;
+	padding-top: 2%;
+	padding-right: 10%;
+}
+audio{
+	float: top;
+}
+
+
+
