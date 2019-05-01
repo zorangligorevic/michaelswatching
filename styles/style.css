@@ -22,7 +22,8 @@ nav ul li a{
 	font-weight: bold;
 	padding: .625em 3.5em;
 	text-decoration: none;
-	color: white;
+	color: red;
+	font-family: 'Righteous', cursive;
 	
 }
 
@@ -44,14 +45,16 @@ header{
 	
 }
 
-h1{
-	color: white;
+h1, h2{
+	color: red;
 	padding-left: 5%;
+	font-family: 'Press Start 2P', cursive;
 }
 
-h2{
+p{
 	color: white;
 	padding-left: 5%;
+	font-family: 'Indie Flower', cursive;
 }
 
 .snapchat{
