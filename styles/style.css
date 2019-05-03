@@ -41,9 +41,11 @@ header{
 
 #social{
 	
-		display: flex;
+	display: flex;
 	justify-content: center;
-	padding-top : 10%;
+	padding-top : 5%;
+	width: 100%;
+	
 }
 
 .right{
@@ -92,11 +94,17 @@ p{
 	padding-top: 4%;
 }
 
+.instacode{
+	
+	padding-right: 5%;
+	padding-top: 8%;
+	
+}
 
 .snapcode{
 	
 
-  padding-top : 10%;
+  
   
   
 }
