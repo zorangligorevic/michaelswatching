@@ -38,6 +38,14 @@ header{
 	justify-content: center;
 	padding-top : 10%;
 }
+
+#social{
+	
+		display: flex;
+	justify-content: center;
+	padding-top : 10%;
+}
+
 .right{
 	padding-top: 12%;
 	padding-left: 5%;
@@ -48,7 +56,7 @@ header{
   height: 150px;
   
  
-	transition: all ease-in-out 0.2s;
+	
 }
 .right:hover{
 	
@@ -56,7 +64,7 @@ header{
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+ 
   margin: 4px 2px;
 
 }
@@ -84,9 +92,10 @@ p{
 	padding-top: 4%;
 }
 
+
 .snapcode{
 	
-	
+
   padding-top : 10%;
   
   
