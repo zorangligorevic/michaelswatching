@@ -80,7 +80,11 @@ header{
 	padding-top : 50%;
 
 }
-
+.facebook{
+	float: center;
+	padding-top: 4%;
+	padding-left: 45em;
+}
 
 a{
 	color:red;
@@ -113,11 +117,7 @@ p{
 }
 
 .snapcode{
-	
 
-  
-  
-  
 }
 
 .headspin{
