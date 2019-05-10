@@ -60,6 +60,9 @@ header{
  
 	
 }
+#tiny{
+	font-size: 3px;
+}
 .right:hover{
 	
   border: none;
