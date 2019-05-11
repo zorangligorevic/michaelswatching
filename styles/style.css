@@ -80,11 +80,6 @@ header{
 	padding-top : 50%;
 
 }
-.facebook{
-	float: center;
-	padding-top: 4%;
-	padding-left: 45em;
-}
 
 a{
 	color:red;
@@ -114,6 +109,12 @@ p{
 	padding-right: 5%;
 	padding-top: 8%;
 	
+}
+
+.flink{
+	padding-left: 5%;
+	font-size: 100px;
+	font-family: 'Gugi', cursive;
 }
 
 .snapcode{
